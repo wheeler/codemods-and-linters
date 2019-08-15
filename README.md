@@ -12,3 +12,7 @@ Codemods and eslint rules written by me.
 ## eslint-configs
 
 [Some eslint configs I have written or used](eslint-configs.js).
+
+## Helpful Docs:
+
+https://rawgit.com/facebook/jscodeshift/master/docs/Collection.html
