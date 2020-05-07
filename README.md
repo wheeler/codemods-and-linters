@@ -9,6 +9,9 @@ Codemods and eslint rules written by me.
 
 [stateless_modal_to_react_modal.js](jscodeshift/stateless_modal_to_react_modal.js) - Replace one JSX component with another and change one prop name.
 
+[static_property_placement.js](jscodeshift/static_property_placement.js) - Extract React static properties from inside the class `static foo` to below `Class.foo = `. Helps adopt current eslint-config-airbnb@18 rules.
+
+
 ## eslint-configs
 
 [Some eslint configs I have written or used](eslint-configs.js).
