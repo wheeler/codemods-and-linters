@@ -1,5 +1,5 @@
 # codemods-and-linters
-Codemods and eslint rules written by me, @wheeler.
+Codemods and eslint rules written by me, [@wheeler](https://github.com/wheeler).
 
 ## jscodeshift
 
