@@ -17,11 +17,11 @@ Codemods and eslint rules written by me, @wheeler.
 ### Resources
 #### Typescript Definitions
 
-    helpful for understanding available methods, params, returns, some contain descriptions.
+helpful for understanding available methods, params, returns, some contain descriptions.
 
-##### [Collection](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/jscodeshift/src/Collection.d.ts)
+- ##### [Collection](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/jscodeshift/src/Collection.d.ts)
 
-##### [Node](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/jscodeshift/src/collections/Node.d.ts)
+- ##### [Node](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/jscodeshift/src/collections/Node.d.ts)
 
 #### Docs
 
