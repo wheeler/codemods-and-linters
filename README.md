@@ -29,4 +29,4 @@ https://rawgit.com/facebook/jscodeshift/master/docs/Collection.html - descriptio
 
 ## eslint-configs
 
-[Some eslint configs I have written or used](eslint-configs.js).
+[Some eslint configs I have written or used](eslint-configs.md).
